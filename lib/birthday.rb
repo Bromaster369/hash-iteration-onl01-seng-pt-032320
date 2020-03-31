@@ -10,3 +10,6 @@ def happy_birthday(birthday_kids)
   end
 end
 
+def age_appropriate_birthday()
+
+#"only prints the birthday greeting if the birthday kid 12 or younger"
